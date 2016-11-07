@@ -45,9 +45,25 @@
 
 ![npm](https://img.shields.io/npm/v/hexo-wordcount.svg) ![npm](https://img.shields.io/npm/dm/hexo-wordcount.svg) ![npm](https://img.shields.io/npm/dt/hexo-wordcount.svg)
 
+## jianzhou-sdk
+
+![npm](https://img.shields.io/npm/v/jianzhou-sdk.svg) ![npm](https://img.shields.io/npm/dm/jianzhou-sdk.svg) ![npm](https://img.shields.io/npm/dt/jianzhou-sdk.svg)
+
 ## markdown-toc-gitbook
 
 ![npm](https://img.shields.io/npm/v/markdown-toc-gitbook.svg) ![npm](https://img.shields.io/npm/dm/markdown-toc-gitbook.svg) ![npm](https://img.shields.io/npm/dt/markdown-toc-gitbook.svg)
+
+## mmonit
+
+![npm](https://img.shields.io/npm/v/mmonit.svg) ![npm](https://img.shields.io/npm/dm/mmonit.svg) ![npm](https://img.shields.io/npm/dt/mmonit.svg)
+
+## nativescript-icam
+
+![npm](https://img.shields.io/npm/v/nativescript-icam.svg) ![npm](https://img.shields.io/npm/dm/nativescript-icam.svg) ![npm](https://img.shields.io/npm/dt/nativescript-icam.svg)
+
+## npm-analytics
+
+![npm](https://img.shields.io/npm/v/npm-analytics.svg) ![npm](https://img.shields.io/npm/dm/npm-analytics.svg) ![npm](https://img.shields.io/npm/dt/npm-analytics.svg)
 
 ## tuling
 
@@ -65,6 +81,10 @@
 
 ![npm](https://img.shields.io/npm/v/wulian.svg) ![npm](https://img.shields.io/npm/dm/wulian.svg) ![npm](https://img.shields.io/npm/dt/wulian.svg)
 
+## wulian-authcode
+
+![npm](https://img.shields.io/npm/v/wulian-authcode.svg) ![npm](https://img.shields.io/npm/dm/wulian-authcode.svg) ![npm](https://img.shields.io/npm/dt/wulian-authcode.svg)
+
 ## wulian-common
 
 ![npm](https://img.shields.io/npm/v/wulian-common.svg) ![npm](https://img.shields.io/npm/dm/wulian-common.svg) ![npm](https://img.shields.io/npm/dt/wulian-common.svg)
@@ -80,6 +100,9 @@
 ## yunpian-sdk
 
 ![npm](https://img.shields.io/npm/v/yunpian-sdk.svg) ![npm](https://img.shields.io/npm/dm/yunpian-sdk.svg) ![npm](https://img.shields.io/npm/dt/yunpian-sdk.svg)
+
+
+
 
 # npm-analytics
 
