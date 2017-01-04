@@ -29,6 +29,10 @@
 
 ![npm](https://img.shields.io/npm/v/gitbook-plugin-donate.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-donate.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-donate.svg)
 
+## gitbook-plugin-wordcount
+
+![npm](https://img.shields.io/npm/v/gitbook-plugin-wordcount.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-wordcount.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-wordcount.svg)
+
 ## hapi-auth-redis
 
 ![npm](https://img.shields.io/npm/v/hapi-auth-redis.svg) ![npm](https://img.shields.io/npm/dm/hapi-auth-redis.svg) ![npm](https://img.shields.io/npm/dt/hapi-auth-redis.svg)
