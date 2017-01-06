@@ -81,6 +81,10 @@
 
 ![npm](https://img.shields.io/npm/v/wno.svg) ![npm](https://img.shields.io/npm/dm/wno.svg) ![npm](https://img.shields.io/npm/dt/wno.svg)
 
+## wqcloud
+
+![npm](https://img.shields.io/npm/v/wqcloud.svg) ![npm](https://img.shields.io/npm/dm/wqcloud.svg) ![npm](https://img.shields.io/npm/dt/wqcloud.svg)
+
 ## wulian
 
 ![npm](https://img.shields.io/npm/v/wulian.svg) ![npm](https://img.shields.io/npm/dm/wulian.svg) ![npm](https://img.shields.io/npm/dt/wulian.svg)
