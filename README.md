@@ -25,6 +25,10 @@
 
 ![npm](https://img.shields.io/npm/v/gitbook-plugin-atoc.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-atoc.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-atoc.svg)
 
+## gitbook-plugin-autotheme
+
+![npm](https://img.shields.io/npm/v/gitbook-plugin-autotheme.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-autotheme.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-autotheme.svg)
+
 ## gitbook-plugin-donate
 
 ![npm](https://img.shields.io/npm/v/gitbook-plugin-donate.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-donate.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-donate.svg)
