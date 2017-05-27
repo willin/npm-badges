@@ -1,6 +1,10 @@
 #  Willin NPM Toys
 
 
+## @airx/authcode
+
+![npm](https://img.shields.io/npm/v/@airx/authcode.svg) ![npm](https://img.shields.io/npm/dm/@airx/authcode.svg) ![npm](https://img.shields.io/npm/dt/@airx/authcode.svg)
+
 ## @airx/sdk
 
 ![npm](https://img.shields.io/npm/v/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dm/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dt/@airx/sdk.svg)
@@ -40,6 +44,10 @@
 ## @dwing/redis
 
 ![npm](https://img.shields.io/npm/v/@dwing/redis.svg) ![npm](https://img.shields.io/npm/dm/@dwing/redis.svg) ![npm](https://img.shields.io/npm/dt/@dwing/redis.svg)
+
+## eslint-config-dwing
+
+![npm](https://img.shields.io/npm/v/eslint-config-dwing.svg) ![npm](https://img.shields.io/npm/dm/eslint-config-dwing.svg) ![npm](https://img.shields.io/npm/dt/eslint-config-dwing.svg)
 
 ## gitbook-plugin-atoc
 
