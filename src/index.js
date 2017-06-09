@@ -1,6 +1,6 @@
-import request from 'superagent';
-import cheerio from 'cheerio';
-import {getDefer} from 'wulian-common';
+const request = require('superagent');
+const cheerio = require('cheerio');
+const { getDefer } = require('@dwing/common');
 
 module.exports = (username) => {
   const deferred = getDefer();

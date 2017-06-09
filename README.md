@@ -25,6 +25,10 @@
 
 ![npm](https://img.shields.io/npm/v/awth.svg) ![npm](https://img.shields.io/npm/dm/awth.svg) ![npm](https://img.shields.io/npm/dt/awth.svg)
 
+## coding-deploy
+
+![npm](https://img.shields.io/npm/v/coding-deploy.svg) ![npm](https://img.shields.io/npm/dm/coding-deploy.svg) ![npm](https://img.shields.io/npm/dt/coding-deploy.svg)
+
 ## coding-net
 
 ![npm](https://img.shields.io/npm/v/coding-net.svg) ![npm](https://img.shields.io/npm/dm/coding-net.svg) ![npm](https://img.shields.io/npm/dt/coding-net.svg)
