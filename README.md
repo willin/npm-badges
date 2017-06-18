@@ -5,6 +5,10 @@
 
 ![npm](https://img.shields.io/npm/v/@airx/authcode.svg) ![npm](https://img.shields.io/npm/dm/@airx/authcode.svg) ![npm](https://img.shields.io/npm/dt/@airx/authcode.svg)
 
+## @airx/proto
+
+![npm](https://img.shields.io/npm/v/@airx/proto.svg) ![npm](https://img.shields.io/npm/dm/@airx/proto.svg) ![npm](https://img.shields.io/npm/dt/@airx/proto.svg)
+
 ## @airx/sdk
 
 ![npm](https://img.shields.io/npm/v/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dm/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dt/@airx/sdk.svg)
@@ -36,6 +40,10 @@
 ## coding-sdk
 
 ![npm](https://img.shields.io/npm/v/coding-sdk.svg) ![npm](https://img.shields.io/npm/dm/coding-sdk.svg) ![npm](https://img.shields.io/npm/dt/coding-sdk.svg)
+
+## @dwing/azure-iot-device-mqtt
+
+![npm](https://img.shields.io/npm/v/@dwing/azure-iot-device-mqtt.svg) ![npm](https://img.shields.io/npm/dm/@dwing/azure-iot-device-mqtt.svg) ![npm](https://img.shields.io/npm/dt/@dwing/azure-iot-device-mqtt.svg)
 
 ## @dwing/common
 
@@ -128,6 +136,10 @@
 ## wqcloud
 
 ![npm](https://img.shields.io/npm/v/wqcloud.svg) ![npm](https://img.shields.io/npm/dm/wqcloud.svg) ![npm](https://img.shields.io/npm/dt/wqcloud.svg)
+
+## wqcloud-video
+
+![npm](https://img.shields.io/npm/v/wqcloud-video.svg) ![npm](https://img.shields.io/npm/dm/wqcloud-video.svg) ![npm](https://img.shields.io/npm/dt/wqcloud-video.svg)
 
 ## wrescuetime
 
