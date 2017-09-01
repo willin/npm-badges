@@ -2,7 +2,7 @@ const ana = require('./');
 const { readFileSync, writeFileSync } = require('fs');
 const path = require('path');
 
-(async() => {
+(async () => {
   const result = await ana('willin');
   const md = [];
   for (const item of result) {

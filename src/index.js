@@ -16,8 +16,9 @@ module.exports = (username) => {
         name: item,
         images: `![npm](https://img.shields.io/npm/v/${item}.svg) ![npm](https://img.shields.io/npm/dm/${item}.svg) ![npm](https://img.shields.io/npm/dt/${item}.svg)`
       });
-      deferred.resolve(arr);
     });
+    arr.sort((x, y) => (x.name > y.name ? 1 : -1));
+    deferred.resolve(arr);
   });
   return deferred.promise;
 };
