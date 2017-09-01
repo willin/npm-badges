@@ -41,6 +41,10 @@
 
 ![npm](https://img.shields.io/npm/v/wrescuetime.svg) ![npm](https://img.shields.io/npm/dm/wrescuetime.svg) ![npm](https://img.shields.io/npm/dt/wrescuetime.svg)
 
+## lslint
+
+![npm](https://img.shields.io/npm/v/lslint.svg) ![npm](https://img.shields.io/npm/dm/lslint.svg) ![npm](https://img.shields.io/npm/dt/lslint.svg)
+
 ## @dwing/redis
 
 ![npm](https://img.shields.io/npm/v/@dwing/redis.svg) ![npm](https://img.shields.io/npm/dm/@dwing/redis.svg) ![npm](https://img.shields.io/npm/dt/@dwing/redis.svg)
@@ -48,6 +52,10 @@
 ## @airx/sdk
 
 ![npm](https://img.shields.io/npm/v/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dm/@airx/sdk.svg) ![npm](https://img.shields.io/npm/dt/@airx/sdk.svg)
+
+## wtoys
+
+![npm](https://img.shields.io/npm/v/wtoys.svg) ![npm](https://img.shields.io/npm/dm/wtoys.svg) ![npm](https://img.shields.io/npm/dt/wtoys.svg)
 
 ## koa-swagger-ui
 
@@ -85,6 +93,10 @@
 
 ![npm](https://img.shields.io/npm/v/@airx/proto.svg) ![npm](https://img.shields.io/npm/dm/@airx/proto.svg) ![npm](https://img.shields.io/npm/dt/@airx/proto.svg)
 
+## mockredis
+
+![npm](https://img.shields.io/npm/v/mockredis.svg) ![npm](https://img.shields.io/npm/dm/mockredis.svg) ![npm](https://img.shields.io/npm/dt/mockredis.svg)
+
 ## hello-dolly
 
 ![npm](https://img.shields.io/npm/v/hello-dolly.svg) ![npm](https://img.shields.io/npm/dm/hello-dolly.svg) ![npm](https://img.shields.io/npm/dt/hello-dolly.svg)
@@ -100,6 +112,10 @@
 ## @airx/swagger-hook
 
 ![npm](https://img.shields.io/npm/v/@airx/swagger-hook.svg) ![npm](https://img.shields.io/npm/dm/@airx/swagger-hook.svg) ![npm](https://img.shields.io/npm/dt/@airx/swagger-hook.svg)
+
+## pipefn
+
+![npm](https://img.shields.io/npm/v/pipefn.svg) ![npm](https://img.shields.io/npm/dm/pipefn.svg) ![npm](https://img.shields.io/npm/dt/pipefn.svg)
 
 ## gitbook-plugin-atoc
 
@@ -145,9 +161,17 @@
 
 ![npm](https://img.shields.io/npm/v/coding-sdk.svg) ![npm](https://img.shields.io/npm/dm/coding-sdk.svg) ![npm](https://img.shields.io/npm/dt/coding-sdk.svg)
 
+## mock-redis
+
+![npm](https://img.shields.io/npm/v/mock-redis.svg) ![npm](https://img.shields.io/npm/dm/mock-redis.svg) ![npm](https://img.shields.io/npm/dt/mock-redis.svg)
+
 ## jianzhou-sdk
 
 ![npm](https://img.shields.io/npm/v/jianzhou-sdk.svg) ![npm](https://img.shields.io/npm/dm/jianzhou-sdk.svg) ![npm](https://img.shields.io/npm/dt/jianzhou-sdk.svg)
+
+## @airdwing/babel-eslint
+
+![npm](https://img.shields.io/npm/v/@airdwing/babel-eslint.svg) ![npm](https://img.shields.io/npm/dm/@airdwing/babel-eslint.svg) ![npm](https://img.shields.io/npm/dt/@airdwing/babel-eslint.svg)
 
 ## coding-net
 
@@ -160,6 +184,10 @@
 ## gitbook-plugin-autotheme
 
 ![npm](https://img.shields.io/npm/v/gitbook-plugin-autotheme.svg) ![npm](https://img.shields.io/npm/dm/gitbook-plugin-autotheme.svg) ![npm](https://img.shields.io/npm/dt/gitbook-plugin-autotheme.svg)
+
+## @airdwing/babylon
+
+![npm](https://img.shields.io/npm/v/@airdwing/babylon.svg) ![npm](https://img.shields.io/npm/dm/@airdwing/babylon.svg) ![npm](https://img.shields.io/npm/dt/@airdwing/babylon.svg)
 
 ## @dwing/mysql
 
