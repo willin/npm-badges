@@ -1,24 +1,32 @@
-const request = require('superagent');
-const cheerio = require('cheerio');
-const { getDefer } = require('@dwing/common');
+const axios = require('axios');
 
-module.exports = (username) => {
-  const deferred = getDefer();
-  request.get(`https://www.npmjs.com/~${username}`).end((err, res) => {
-    if (err) {
-      deferred.reject(err);
+const load = (username, page = '') =>
+  axios.get(`https://www.npmjs.com/~${username}${page}`, {
+    params: {
+      perPage: 1000
+    },
+    headers: {
+      'x-requested-with': 'XMLHttpRequest',
+      'x-spiferack': 1
     }
-    const $ = cheerio.load(res.text);
-    const arr = [];
-    $('.collaborated-packages li a').each((i, ele) => {
-      const item = $(ele).text();
-      arr.push({
-        name: item,
-        images: `![npm](https://img.shields.io/npm/v/${item}.svg) ![npm](https://img.shields.io/npm/dm/${item}.svg) ![npm](https://img.shields.io/npm/dt/${item}.svg)`
-      });
-    });
-    arr.sort((x, y) => (x.name > y.name ? 1 : -1));
-    deferred.resolve(arr);
   });
-  return deferred.promise;
+
+module.exports = async (username) => {
+  let canLoop = true;
+  const results = [];
+  let page = '';
+  while (canLoop) {
+    // eslint-disable-next-line no-await-in-loop
+    const { data: { packages: { objects = [], urls: { next = '' } = {} } = {} } = {} } = await load(username, page);
+    results.push(...objects);
+    if (next === '') {
+      canLoop = false;
+    } else {
+      page = next;
+    }
+  }
+  return results.map(({ name = '' } = {}) => ({
+    name,
+    images: `![npm](https://img.shields.io/npm/v/${name}.svg) ![npm](https://img.shields.io/npm/dm/${name}.svg) ![npm](https://img.shields.io/npm/dt/${name}.svg)`
+  }));
 };

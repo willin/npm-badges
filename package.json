@@ -1,9 +1,9 @@
 {
-  "name": "npm-analytics",
-  "version": "1.0.1",
+  "name": "npm-badges",
+  "version": "2.0.0",
   "description": "Willin Toys",
   "main": "src/index.js",
-   "scripts": {
+  "scripts": {
     "prepare": "node src/compiler.js"
   },
   "engines": {
@@ -11,25 +11,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wshow/npm-analytics.git"
+    "url": "git+ssh://git@github.com/willin/npm-badges.git"
   },
   "keywords": [
     "npm",
-    "analytics"
+    "badges"
   ],
   "author": "Willin Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wshow/npm-analytics/issues"
+    "url": "https://github.com/willin/npm-badges/issues"
   },
-  "homepage": "https://github.com/wshow/npm-analytics#readme",
+  "homepage": "https://github.com/willin/npm-badges#readme",
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-dwing": "^1.0.2"
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-willin": "^1.0.3",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
   },
   "dependencies": {
-    "@dwing/common": "^1.1.2",
-    "cheerio": "^1.0.0-rc.1",
-    "superagent": "^3.5.2"
+    "axios": "^0.19.2"
   }
 }
